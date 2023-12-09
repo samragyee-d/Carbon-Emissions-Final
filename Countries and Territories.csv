@@ -1,0 +1,216 @@
+id,Country Name,Population,Income Level,CO2 Emissions,GDP Per Capita,Percent Renewable Energy,Percent Using Internet,Unemployment,Three Leter Country Code,Two Letter Country Code,Region,Flag,Fertility Rate,National Anthem
+1,Afghanistan,37172386,Low Income,9809.23,520.9,18.42,13.5,11.18,AFG,AF,South Asia,https://data.un.org/common/flags/afg_flag.png,4.47,http://www.nationalanthems.info/af.mp3
+2,Albania,2866376,Upper Middle Income,5716.85,5268.85,38.62,71.85,13.75,ALB,AL,Europe and Central Asia,https://data.un.org/common/flags/alb_flag.png,1.62,http://www.nationalanthems.info/al.mp3
+3,Algeria,42228429,Upper Middle Income,145400.22,4114.72,0.06,49.04,13.57,DZA,DZ,Middle East and North Africa,https://data.un.org/common/flags/dza_flag.png,3.02,http://www.nationalanthems.info/dz.mp3
+4,American Samoa,55465,Upper Middle Income,361,11466.69,0.89,-1,9.2,ASM,AS,East Asia and Pacific,https://data.un.org/common/flags/asm_flag.png,2.6,http://www.nationalanthems.info/as.mp3
+5,Andorra,77006,High Income,462.04,42029.76,19.75,91.57,3.7,AND,AD,Europe and Central Asia,https://data.un.org/common/flags/and_flag.png,1.27,http://www.nationalanthems.info/ad.mp3
+6,Angola,30809762,Lower Middle Income,34763.16,3432.39,49.57,14.34,7.36,AGO,AO,Sub-Saharan Africa,https://data.un.org/common/flags/ago_flag.png,5.52,http://www.nationalanthems.info/ao.mp3
+7,Antigua and Barbuda,96286,High Income,531.72,16726.98,0,76,8.42,ATG,AG,Latin America and Caribbean,https://data.un.org/common/flags/atg_flag.png,1.99,http://www.nationalanthems.info/ag.mp3
+8,Argentina,44494502,Upper Middle Income,204024.55,11683.95,10.04,74.29,9.22,ARG,AR,Latin America and Caribbean,https://data.un.org/common/flags/arg_flag.png,2.26,http://www.nationalanthems.info/ar.mp3
+9,Armenia,2951776,Upper Middle Income,5529.84,4212.07,15.79,64.74,17.7,ARM,AM,Europe and Central Asia,https://data.un.org/common/flags/arm_flag.png,1.76,http://www.nationalanthems.info/am.mp3
+10,Aruba,105845,High Income,872.75,25630.27,6.73,97.17,8.9,ABW,AW,Latin America and Caribbean,https://data.un.org/common/flags/abw_flag.png,1.9,http://www.nationalanthems.info/aw.mp3
+11,Australia,24982688,High Income,361261.84,57373.69,9.18,86.55,5.16,AUS,AU,East Asia and Pacific,https://data.un.org/common/flags/aus_flag.png,1.74,http://www.nationalanthems.info/au.mp3
+12,Austria,8840521,High Income,58712.34,51461.95,34.39,87.48,4.85,AUT,AT,Europe and Central Asia,https://data.un.org/common/flags/aut_flag.png,1.52,http://www.nationalanthems.info/at.mp3
+13,Azerbaijan,9939800,Upper Middle Income,37487.74,4721.18,2.31,79.8,4.9,AZE,AZ,Europe and Central Asia,https://data.un.org/common/flags/aze_flag.png,1.8,http://www.nationalanthems.info/az.mp3
+14,"Bahamas, The",385640,High Income,2416.55,32217.87,1.21,85,12.7,BHS,BS,Latin America and Caribbean,https://data.un.org/common/flags/bhs_flag.png,1.75,http://www.nationalanthems.info/bs.mp3
+15,Bahrain,1569439,High Income,31338.18,24050.76,0,98.64,1.2,BHR,BH,Middle East and North Africa,https://data.un.org/common/flags/bhr_flag.png,1.99,http://www.nationalanthems.info/bh.mp3
+16,Bangladesh,161356039,Lower Middle Income,73189.65,1698.26,34.75,15,4.37,BGD,BD,South Asia,https://data.un.org/common/flags/bgd_flag.png,2.04,http://www.nationalanthems.info/bd.mp3
+17,Barbados,286641,High Income,1272.45,17949.28,2.79,81.76,9.72,BRB,BB,Latin America and Caribbean,https://data.un.org/common/flags/brb_flag.png,1.62,http://www.nationalanthems.info/bb.mp3
+18,Belarus,9483499,Upper Middle Income,63497.77,6289.94,6.77,79.13,4.76,BLR,BY,Europe and Central Asia,https://data.un.org/common/flags/blr_flag.png,1.45,http://www.nationalanthems.info/by.mp3
+19,Belgium,11433256,High Income,93350.82,47518.64,9.2,88.66,5.95,BEL,BE,Europe and Central Asia,https://data.un.org/common/flags/bel_flag.png,1.65,http://www.nationalanthems.info/be.mp3
+20,Belize,383071,Upper Middle Income,495.05,4884.74,35.02,47.08,6.6,BLZ,BZ,Latin America and Caribbean,https://data.un.org/common/flags/blz_flag.png,2.31,http://www.nationalanthems.info/bz.mp3
+21,Benin,11485048,Low Income,6318.24,901.54,50.86,20,2.65,BEN,BJ,Sub-Saharan Africa,https://data.un.org/common/flags/ben_flag.png,4.84,http://www.nationalanthems.info/bj.mp3
+22,Bermuda,63973,High Income,575.72,85748.07,2.36,98.37,8.94,BMU,BM,North America,https://data.un.org/common/flags/bmu_flag.png,1.6,http://www.nationalanthems.info/bm.mp3
+23,Bhutan,754394,Lower Middle Income,1001.09,3243.23,86.9,48.11,2.45,BTN,BT,South Asia,https://data.un.org/common/flags/btn_flag.png,1.98,http://www.nationalanthems.info/bt.mp3
+24,Bolivia,11353142,Lower Middle Income,20410.52,3548.59,17.54,44.29,3.52,BOL,BO,Latin America and Caribbean,https://data.un.org/common/flags/bol_flag.png,2.73,http://www.nationalanthems.info/bo.mp3
+25,Bosnia and Herzegovina,3323929,Upper Middle Income,22233.02,6065.67,40.75,70.12,15.69,BIH,BA,Europe and Central Asia,https://data.un.org/common/flags/bih_flag.png,1.27,http://www.nationalanthems.info/ba.mp3
+26,Botswana,2254126,Upper Middle Income,7033.31,8258.64,28.88,47,17.86,BWA,BW,Sub-Saharan Africa,https://data.un.org/common/flags/bwa_flag.png,2.87,http://www.nationalanthems.info/bw.mp3
+27,Brazil,209469333,Upper Middle Income,529808.16,8920.76,43.79,70.43,11.93,BRA,BR,Latin America and Caribbean,https://data.un.org/common/flags/bra_flag.png,1.73,http://www.nationalanthems.info/br.mp3
+28,British Virgin Islands,29802,High Income,179.68,31916.8,1.23,77.7,2.9,VGB,VG,Latin America and Caribbean,https://data.un.org/common/flags/vgb_flag.png,2,http://www.nationalanthems.info/vg.mp3
+29,Brunei Darussalam,428962,High Income,9108.83,31628.33,0.01,94.87,8.7,BRN,BN,East Asia and Pacific,https://data.un.org/common/flags/brn_flag.png,1.85,http://www.nationalanthems.info/bn.mp3
+30,Bulgaria,7025037,Upper Middle Income,42416.19,9272.63,17.65,64.78,5.21,BGR,BG,Europe and Central Asia,https://data.un.org/common/flags/bgr_flag.png,1.56,http://www.nationalanthems.info/bg.mp3
+31,Burkina Faso,19751535,Low Income,2849.26,715.12,74.17,16,6.48,BFA,BF,Sub-Saharan Africa,https://data.un.org/common/flags/bfa_flag.png,5.19,http://www.nationalanthems.info/bf.mp3
+32,Burundi,11175378,Low Income,440.04,271.75,95.68,2.66,1.57,BDI,BI,Sub-Saharan Africa,https://data.un.org/common/flags/bdi_flag.png,5.41,http://www.nationalanthems.info/bi.mp3
+33,Cabo Verde,543767,Lower Middle Income,491.38,3635.41,26.58,57.16,12.17,CPV,CV,Sub-Saharan Africa,https://data.un.org/common/flags/cpv_flag.png,2.27,http://www.nationalanthems.info/cv.mp3
+34,Cambodia,16249798,Lower Middle Income,6684.94,1510.32,64.92,40,0.72,KHM,KH,East Asia and Pacific,https://data.un.org/common/flags/khm_flag.png,2.5,http://www.nationalanthems.info/kh.mp3
+35,Cameroon,25216237,Lower Middle Income,7003.97,1533.74,76.54,23.2,3.53,CMR,CM,Sub-Saharan Africa,https://data.un.org/common/flags/cmr_flag.png,4.57,http://www.nationalanthems.info/cm.mp3
+36,Canada,37057765,High Income,537193.5,46232.99,22.03,91,5.66,CAN,CA,North America,https://data.un.org/common/flags/can_flag.png,1.5,http://www.nationalanthems.info/ca.mp3
+37,Cayman Islands,64174,High Income,542.72,65472.4,0,81.07,4.24,CYM,KY,Latin America and Caribbean,https://data.un.org/common/flags/cym_flag.png,1.6,http://www.nationalanthems.info/ky.mp3
+38,Central African Republic,4666377,Low Income,300.69,475.72,76.57,4.34,5.6,CAF,CF,Sub-Saharan Africa,https://data.un.org/common/flags/caf_flag.png,4.72,http://www.nationalanthems.info/cf.mp3
+39,Chad,15477751,Low Income,729.73,728.34,89.36,6.5,5.9,TCD,TD,Sub-Saharan Africa,https://data.un.org/common/flags/tcd_flag.png,5.75,http://www.nationalanthems.info/td.mp3
+40,Chile,18729160,High Income,82562.51,15923.36,24.88,82.33,7.23,CHL,CL,Latin America and Caribbean,https://data.un.org/common/flags/chl_flag.png,1.65,http://www.nationalanthems.info/cl.mp3
+41,China,1392730000,Upper Middle Income,1392730000,9770.85,12.41,54.3,3.8,CHN,CN,East Asia and Pacific,https://data.un.org/common/flags/chn_flag.png,1.69,http://www.nationalanthems.info/cn.mp3
+42,Colombia,49648685,Upper Middle Income,84091.64,6667.79,23.56,64.13,9.11,COL,CO,Latin America and Caribbean,https://data.un.org/common/flags/col_flag.png,1.81,http://www.nationalanthems.info/co.mp3
+43,Comoros,832322,Lower Middle Income,154.01,1415.26,45.33,8.48,8.14,COM,KM,Sub-Saharan Africa,https://data.un.org/common/flags/com_flag.png,4.21,http://www.nationalanthems.info/km.mp3
+44,"Congo, Dem. Rep.",84068091,Low Income,4671.76,561.78,95.82,8.62,4.49,COD,CD,Sub-Saharan Africa,https://data.un.org/common/flags/cod_flag.png,5.92,http://www.nationalanthems.info/cd.mp3
+45,"Congo, Rep.",5244363,Lower Middle Income,3094.95,2147.77,62.4,8.65,10,COG,CG,Sub-Saharan Africa,https://data.un.org/common/flags/cog_flag.png,4.43,http://www.nationalanthems.info/cg.mp3
+46,Costa Rica,4999441,Upper Middle Income,7759.37,12027.37,38.73,74.09,11.49,CRI,CR,Latin America and Caribbean,https://data.un.org/common/flags/cri_flag.png,1.75,http://www.nationalanthems.info/cr.mp3
+47,Cote d'Ivoire,25069229,Lower Middle Income,11045,1715.53,64.53,46.82,3.27,CIV,CI,Sub-Saharan Africa,https://data.un.org/common/flags/civ_flag.png,4.65,http://www.nationalanthems.info/ci.mp3
+48,Croatia,4087843,High Income,16842.53,14909.69,33.13,75.29,8.43,HRV,HR,Europe and Central Asia,https://data.un.org/common/flags/hrv_flag.png,1.47,http://www.nationalanthems.info/hr.mp3
+49,Cuba,11338138,Upper Middle Income,34836.5,8821.82,19.28,57.15,2.4,CUB,CU,Latin America and Caribbean,https://data.un.org/common/flags/cub_flag.png,1.62,http://www.nationalanthems.info/cu.mp3
+50,Curacao,159800,High Income,5881.87,19567.89,0.35,68.13,13.43,CUW,CW,Latin America and Caribbean,https://data.un.org/common/flags/cuw_flag.png,1.7,http://www.nationalanthems.info/cw.mp3
+51,Cyprus,1189265,High Income,6061.55,28689.7,9.94,84.43,8.37,CYP,CY,Europe and Central Asia,https://data.un.org/common/flags/cyp_flag.png,1.33,http://www.nationalanthems.info/cy.mp3
+52,Czech Republic,10629928,High Income,96475.1,23078.57,14.83,80.69,2.24,CZE,CZ,Europe and Central Asia,https://data.un.org/common/flags/cze_flag.png,1.69,http://www.nationalanthems.info/cz.mp3
+53,Denmark,5793636,High Income,33498.05,61350.35,33.17,97.32,4.97,DNK,DK,Europe and Central Asia,https://data.un.org/common/flags/dnk_flag.png,1.75,http://www.nationalanthems.info/dk.mp3
+54,Djibouti,958920,Lower Middle Income,722.4,3082.54,15.38,55.68,5.8,DJI,DJ,Middle East and North Africa,https://data.un.org/common/flags/dji_flag.png,2.73,http://www.nationalanthems.info/dj.mp3
+55,Dominica,71625,Upper Middle Income,135.68,7691.35,7.83,69.62,10.96,DMA,DM,Latin America and Caribbean,https://data.un.org/common/flags/dma_flag.png,3,http://www.nationalanthems.info/dm.mp3
+56,Dominican Republic,10627165,Upper Middle Income,21539.96,8050.63,16.48,74.82,5.86,DOM,DO,Latin America and Caribbean,https://data.un.org/common/flags/dom_flag.png,2.35,http://www.nationalanthems.info/do.mp3
+57,Ecuador,17084357,Upper Middle Income,43919.66,6344.87,13.82,57.27,3.81,ECU,EC,Latin America and Caribbean,https://data.un.org/common/flags/ecu_flag.png,2.43,http://www.nationalanthems.info/ec.mp3
+58,"Egypt, Arab Rep.",98423595,Lower Middle Income,201894.02,2549.13,5.71,46.92,11.74,EGY,EG,Middle East and North Africa,https://data.un.org/common/flags/egy_flag.png,3.33,http://www.nationalanthems.info/eg.mp3
+59,El Salvador,6420744,Lower Middle Income,6285.24,4058.25,24.4,33.82,4.01,SLV,SV,Latin America and Caribbean,https://data.un.org/common/flags/slv_flag.png,2.04,http://www.nationalanthems.info/sv.mp3
+60,Equatorial Guinea,1308974,Upper Middle Income,5346.49,10261.76,7.82,26.24,8.1,GNQ,GQ,Sub-Saharan Africa,https://data.un.org/common/flags/gnq_flag.png,4.51,http://www.nationalanthems.info/gq.mp3
+61,Eritrea,3213972,Low Income,696.73,811.38,79.77,1.31,5.1,ERI,ER,Sub-Saharan Africa,https://data.un.org/common/flags/eri_flag.png,4.06,http://www.nationalanthems.info/er.mp3
+62,Estonia,1321977,High Income,19519.44,23266.35,27.48,89.36,5.37,EST,EE,Europe and Central Asia,https://data.un.org/common/flags/est_flag.png,1.59,http://www.nationalanthems.info/ee.mp3
+63,Eswatini,1136191,Lower Middle Income,1202.78,4145.97,66.1,47,22.72,SWZ,SZ,Sub-Saharan Africa,https://data.un.org/common/flags/swz_flag.png,2.99,http://www.nationalanthems.info/sz.mp3
+64,Ethiopia,109224559,Low Income,11598.72,772.31,92.16,18.62,2.25,ETH,ET,Sub-Saharan Africa,https://data.un.org/common/flags/eth_flag.png,4.25,http://www.nationalanthems.info/et.mp3
+65,Faroe Islands,48497,High Income,597.72,55822.91,7.51,97.58,3.7,FRO,FO,Europe and Central Asia,https://data.un.org/common/flags/fro_flag.png,2.5,http://www.nationalanthems.info/fo.mp3
+66,Fiji,883483,upper Middle Income,1169.77,6266.97,31.26,49.97,4.32,FJI,FJ,East Asia and Pacific,https://data.un.org/common/flags/fji_flag.png,2.77,http://www.nationalanthems.info/fj.mp3
+67,Finland,5515525,High Income,47300.63,50152.34,43.24,88.89,7.36,FIN,FI,Europe and Central Asia,https://data.un.org/common/flags/fin_flag.png,1.49,http://www.nationalanthems.info/fi.mp3
+68,France,66977107,High Income,303275.57,41463.64,13.5,82.04,9.06,FRA,FR,Europe and Central Asia,https://data.un.org/common/flags/fra_flag.png,1.9,http://www.nationalanthems.info/fr.mp3
+69,French Polynesia,277679,High Income,803.07,19807,9.83,72.7,11.74,PYF,PF,East Asia and Pacific,https://data.un.org/common/flags/pyf_flag.png,1.94,http://www.nationalanthems.info/pf.mp3
+70,Gabon,2119275,Upper Middle Income,5192.47,7952.53,82.01,62,20.39,GAB,GA,Sub-Saharan Africa,https://data.un.org/common/flags/gab_flag.png,3.97,http://www.nationalanthems.info/ga.mp3
+71,"Gambia, The",2280102,Low Income,513.38,716.12,51.51,19.84,9.42,GMB,GM,Sub-Saharan Africa,https://data.un.org/common/flags/gmb_flag.png,5.22,http://www.nationalanthems.info/gm.mp3
+72,Georgia,3726549,Upper Middle Income,8987.82,4717.14,28.66,62.72,12.67,GEO,GE,Europe and Central Asia,https://data.un.org/common/flags/geo_flag.png,2.06,http://www.nationalanthems.info/ge.mp3
+73,Germany,82905782,High Income,719883.44,47603.03,14.21,89.74,3.38,DEU,DE,Europe and Central Asia,https://data.un.org/common/flags/deu_flag.png,1.56,http://www.nationalanthems.info/de.mp3
+74,Ghana,29767108,Lower Middle Income,14466.32,2202.31,41.41,39,4.22,GHA,GH,Sub-Saharan Africa,https://data.un.org/common/flags/gha_flag.png,3.87,http://www.nationalanthems.info/gh.mp3
+75,Gibraltar,33718,High Income,528.05,92843,0,94.44,1,GIB,GI,Europe and Central Asia,https://data.un.org/common/flags/gib_flag.png,1.9,http://www.nationalanthems.info/gi.mp3
+76,Greece,10731726,High Income,67318.79,20324.25,17.17,72.95,19.29,GRC,GR,Europe and Central Asia,https://data.un.org/common/flags/grc_flag.png,1.35,http://www.nationalanthems.info/gr.mp3
+77,Greenland,56025,High Income,506.05,48181.87,15.53,69.48,9.1,GRL,GL,Europe and Central Asia,https://data.un.org/common/flags/grl_flag.png,2,http://www.nationalanthems.info/gl.mp3
+78,Grenada,111454,Upper Middle Income,242.02,10640.5,10.92,59.07,22.9,GRD,GD,Latin America and Caribbean,https://data.un.org/common/flags/grd_flag.png,2.06,http://www.nationalanthems.info/gd.mp3
+79,Guam,165768,High Income,2214,35712.56,0,80.51,5.4,GUM,GU,East Asia and Pacific,https://data.un.org/common/flags/gum_flag.png,2.31,http://www.nationalanthems.info/gu.mp3
+80,Guatemala,17247807,Upper Middle Income,18327.67,4549.01,63.65,65,2.46,GTM,GT,Latin America and Caribbean,https://data.un.org/common/flags/gtm_flag.png,2.87,http://www.nationalanthems.info/gt.mp3
+81,Guinea,12414318,Low Income,2449.56,878.6,76.27,18,4.55,GIN,GN,Sub-Saharan Africa,https://data.un.org/common/flags/gin_flag.png,4.7,http://www.nationalanthems.info/gn.mp3
+82,Guinea-Bissau,1874309,Low Income,271.36,777.97,86.85,3.93,6,GNB,GW,Sub-Saharan Africa,https://data.un.org/common/flags/gnb_flag.png,4.48,http://www.nationalanthems.info/gw.mp3
+83,Guyana,779004,Upper Middle Income,2009.52,4979,25.26,37.33,14.02,GUY,GY,Latin America and Caribbean,https://data.un.org/common/flags/guy_flag.png,2.46,http://www.nationalanthems.info/gy.mp3
+84,Haiti,11123176,Low Income,2860.26,868.34,76.07,32.47,14.1,HTI,HT,Latin America and Caribbean,https://data.un.org/common/flags/hti_flag.png,2.94,http://www.nationalanthems.info/ht.mp3
+85,Honduras,9587522,Lower Middle Income,9471.86,2500.11,51.54,31.7,5.65,HND,HN,Latin America and Caribbean,https://data.un.org/common/flags/hnd_flag.png,2.46,http://www.nationalanthems.info/hn.mp3
+86,"Hong Kong SAR, China",7451000,High Income,46222.54,48675.62,0.85,90.51,3.09,HKG,HK,East Asia and Pacific,https://data.un.org/common/flags/hkg_flag.png,1.07,http://www.nationalanthems.info/hk.mp3
+87,Hungary,9775564,High Income,42086.16,16161.98,15.56,76.07,3.71,HUN,HU,Europe and Central Asia,https://data.un.org/common/flags/hun_flag.png,1.54,http://www.nationalanthems.info/hu.mp3
+88,Iceland,352721,High Income,1983.85,73191.12,77.03,99.01,2.7,ISL,IS,Europe and Central Asia,https://data.un.org/common/flags/isl_flag.png,1.71,http://www.nationalanthems.info/is.mp3
+89,India,1352617328,Lower Middle Income,2238377.14,2009.98,36.02,34.45,5.33,IND,IN,South Asia,https://data.un.org/common/flags/ind_flag.png,2.22,http://www.nationalanthems.info/in.mp3
+90,Indonesia,267663435,Lower Middle Income,464176.19,3893.6,36.88,39.9,4.4,IDN,ID,East Asia and Pacific,https://data.un.org/common/flags/idn_flag.png,2.31,http://www.nationalanthems.info/id.mp3
+91,"Iran, Islamic Rep.",81800269,Upper Middle Income,649480.71,5265.91,0.91,70,12.06,IRN,IR,Middle East and North Africa,https://data.un.org/common/flags/irn_flag.png,2.14,http://www.nationalanthems.info/ir.mp3
+92,Iraq,38433600,Upper Middle Income,168443.65,5834.17,0.8,75,13.02,IRQ,IQ,Middle East and North Africa,https://data.un.org/common/flags/irq_flag.png,3.67,http://www.nationalanthems.info/iq.mp3
+93,Ireland,4867309,High Income,34066.43,78806.43,9.08,84.52,5.74,IRL,IE,Europe and Central Asia,https://data.un.org/common/flags/irl_flag.png,1.77,http://www.nationalanthems.info/ie.mp3
+94,Isle of Man,84077,High Income,-1,79155.54,4.21,-1,2.67,IMN,IM,Europe and Central Asia,https://data.un.org/common/flags/imn_flag.png,1.65,http://www.nationalanthems.info/im.mp3
+95,Israel,8882800,High Income,64601.54,41715.03,3.71,83.73,4,ISR,IL,Middle East and North Africa,https://data.un.org/common/flags/isr_flag.png,3.09,http://www.nationalanthems.info/il.mp3
+96,Italy,60421760,High Income,320411.46,34483.2,16.52,74.39,10.61,ITA,IT,Europe and Central Asia,https://data.un.org/common/flags/ita_flag.png,1.32,http://www.nationalanthems.info/it.mp3
+97,Jamaica,2934855,Upper Middle Income,7422.01,5354.24,16.77,55.07,7.72,JAM,JM,Latin America and Caribbean,https://data.un.org/common/flags/jam_flag.png,1.98,http://www.nationalanthems.info/jm.mp3
+98,Japan,126529100,High Income,1214048.36,39289.96,6.3,91.28,2.4,JPN,JP,East Asia and Pacific,https://data.un.org/common/flags/jpn_flag.png,1.42,http://www.nationalanthems.info/jp.mp3
+99,Jordan,9956011,Upper Middle Income,26450.07,4241.79,3.23,66.79,15.27,JOR,JO,Middle East and North Africa,https://data.un.org/common/flags/jor_flag.png,2.76,http://www.nationalanthems.info/jo.mp3
+100,Kazakhstan,18272430,Upper Middle Income,248314.57,9812.6,1.56,78.9,4.9,KAZ,KZ,Europe and Central Asia,https://data.un.org/common/flags/kaz_flag.png,2.84,http://www.nationalanthems.info/kz.mp3
+101,Kenya,51393010,Lower Middle Income,14286.63,1710.51,72.66,17.83,2.76,KEN,KE,Sub-Saharan Africa,https://data.un.org/common/flags/ken_flag.png,3.49,http://www.nationalanthems.info/ke.mp3
+102,Kiribati,115847,Lower Middle Income,62.34,1625.29,4.25,14.58,9.33,KIR,KI,East Asia and Pacific,https://data.un.org/common/flags/kir_flag.png,3.57,http://www.nationalanthems.info/ki.mp3
+103,"Korea, Dem. People’s Rep.",25549819,Low Income,40527.68,684.6,23.12,-1,4.7,PRK,KP,East Asia and Pacific,https://data.un.org/common/flags/prk_flag.png,1.9,http://www.nationalanthems.info/kp.mp3
+104,"Korea, Rep.",51606633,High Income,587156.37,31362.75,2.71,96.02,3.82,KOR,KR,East Asia and Pacific,https://data.un.org/common/flags/kor_flag.png,0.98,http://www.nationalanthems.info/kr.mp3
+105,Kuwait,4137309,High Income,95408.01,33994.41,0,99.6,2.16,KWT,KW,Middle East and North Africa,https://data.un.org/common/flags/kwt_flag.png,2.08,http://www.nationalanthems.info/kw.mp3
+106,Kyrgyz Republic,6322800,Lower Middle Income,9607.54,1281.36,23.31,38,4.54,KGZ,KG,Europe and Central Asia,https://data.un.org/common/flags/kgz_flag.png,3.3,http://www.nationalanthems.info/kg.mp3
+107,Lao PDR,7061507,Lower Middle Income,1954.51,2542.49,59.32,25.51,9.41,LAO,LA,East Asia and Pacific,https://data.un.org/common/flags/lao_flag.png,2.67,http://www.nationalanthems.info/la.mp3
+108,Latvia,1927174,High Income,6974.63,17860.62,38.1,83.58,7.41,LVA,LV,Europe and Central Asia,https://data.un.org/common/flags/lva_flag.png,1.69,http://www.nationalanthems.info/lv.mp3
+109,Lebanon,6848925,Upper Middle Income,24070.19,8269.79,3.65,78.18,6.35,LBN,LB,Middle East and North Africa,https://data.un.org/common/flags/lbn_flag.png,2.09,http://www.nationalanthems.info/lb.mp3
+110,Lesotho,2108132,Lower Middle Income,2467.89,1299.15,52.14,29,24.58,LSO,LS,Sub-Saharan Africa,https://data.un.org/common/flags/lso_flag.png,3.14,http://www.nationalanthems.info/ls.mp3
+111,Liberia,4818977,Low Income,935.09,677.32,83.85,7.98,3.08,LBR,LR,Sub-Saharan Africa,https://data.un.org/common/flags/lbr_flag.png,4.32,http://www.nationalanthems.info/lr.mp3
+112,Libya,6678567,Upper Middle Income,56996.18,7241.7,1.97,21.76,19.03,LBY,LY,Middle East and North Africa,https://data.un.org/common/flags/lby_flag.png,2.24,http://www.nationalanthems.info/ly.mp3
+113,Liechtenstein,37910,High Income,44,165028.25,63.13,98.1,2.01,LIE,LI,Europe and Central Asia,https://data.un.org/common/flags/lie_flag.png,1.44,http://www.nationalanthems.info/li.mp3
+114,Lithuania,2801543,High Income,12838.17,19153.41,28.96,79.72,6.15,LTU,LT,Europe and Central Asia,https://data.un.org/common/flags/ltu_flag.png,1.63,http://www.nationalanthems.info/lt.mp3
+115,Luxembourg,607950,High Income,9658.88,116639.89,9.03,97.06,5.59,LUX,LU,Europe and Central Asia,https://data.un.org/common/flags/lux_flag.png,1.37,http://www.nationalanthems.info/lu.mp3
+116,"Macao SAR, China",631636,High Income,1283.45,87208.54,7.05,83.79,2,MAC,MO,East Asia and Pacific,https://data.un.org/common/flags/mac_flag.png,1.22,http://www.nationalanthems.info/mo.mp3
+117,Madagascar,26262368,Low Income,3076.61,527.5,70.17,9.8,1.79,MDG,MG,Sub-Saharan Africa,https://data.un.org/common/flags/mdg_flag.png,4.08,http://www.nationalanthems.info/mg.mp3
+118,Malawi,18143315,Low Income,1276.12,389.4,83.65,13.78,28.67,MWI,MW,Sub-Saharan Africa,https://data.un.org/common/flags/mwi_flag.png,4.21,http://www.nationalanthems.info/mw.mp3
+119,Malaysia,31528585,Upper Middle Income,242821.41,11373.23,5.19,81.2,3.3,MYS,MY,East Asia and Pacific,https://data.un.org/common/flags/mys_flag.png,2,http://www.nationalanthems.info/my.mp3
+120,Maldives,515696,Upper Middle Income,1334.79,10330.62,1.01,63.19,6.12,MDV,MV,South Asia,https://data.un.org/common/flags/mdv_flag.png,1.87,http://www.nationalanthems.info/mv.mp3
+121,Mali,19077690,Low Income,1411.8,899.66,61.53,13,1.62,MLI,ML,Sub-Saharan Africa,https://data.un.org/common/flags/mli_flag.png,5.88,http://www.nationalanthems.info/ml.mp3
+122,Malta,484630,High Income,2346.88,30098.28,5.36,81.66,3.66,MLT,MT,Middle East and North Africa,https://data.un.org/common/flags/mlt_flag.png,1.26,http://www.nationalanthems.info/mt.mp3
+123,Marshall Islands,58413,Upper Middle Income,102.68,3788.16,11.16,38.7,4.74,MHL,MH,East Asia and Pacific,https://data.un.org/common/flags/mhl_flag.png,4.05,http://www.nationalanthems.info/mh.mp3
+124,Mauritania,4403319,Lower Middle Income,2709.91,1188.83,32.16,20.8,10.34,MRT,MR,Sub-Saharan Africa,https://data.un.org/common/flags/mrt_flag.png,4.56,http://www.nationalanthems.info/mr.mp3
+125,Mauritius,1265303,Upper Middle Income,4228.05,11238.69,11.54,58.6,6.43,MUS,MU,Sub-Saharan Africa,https://data.un.org/common/flags/mus_flag.png,1.41,http://www.nationalanthems.info/mu.mp3
+126,Mexico,126190788,Upper Middle Income,480270.66,9673.44,9.22,65.77,3.48,MEX,MX,Latin America and Caribbean,https://data.un.org/common/flags/mex_flag.png,2.13,http://www.nationalanthems.info/mx.mp3
+127,"Micronesia, Fed. Sts.",112640,Lower Middle Income,150.35,3568.29,1.2,35.3,8.86,FSM,FM,East Asia and Pacific,https://data.un.org/common/flags/fsm_flag.png,3.05,http://www.nationalanthems.info/fm.mp3
+128,Moldova,2706049,Lower Middle Income,4932.12,3227.31,14.27,76.12,2.98,MDA,MD,Europe and Central Asia,https://data.un.org/common/flags/mda_flag.png,1.26,http://www.nationalanthems.info/md.mp3
+129,Monaco,38682,High Income,-1,185741.28,-1,97.05,6.33,MCO,MC,Europe and Central Asia,https://data.un.org/common/flags/mco_flag.png,1.54,http://www.nationalanthems.info/mc.mp3
+130,Mongolia,3170208,Lower Middle Income,20839.56,4121.73,3.43,47.16,5.38,MNG,MN,East Asia and Pacific,https://data.un.org/common/flags/mng_flag.png,2.9,http://www.nationalanthems.info/mn.mp3
+131,Montenegro,622227,Upper Middle Income,2211.2,8844.24,43,71.52,15.17,MNE,ME,Europe and Central Asia,https://data.un.org/common/flags/mne_flag.png,1.75,http://www.nationalanthems.info/me.mp3
+132,Morocco,36029138,Lower Middle Income,59863.78,3222.2,11.32,64.8,9.3,MAR,MA,Middle East and North Africa,https://data.un.org/common/flags/mar_flag.png,2.42,http://www.nationalanthems.info/ma.mp3
+133,Mozambique,29495962,Low Income,8426.77,498.96,86.4,10,3.43,MOZ,MZ,Sub-Saharan Africa,https://data.un.org/common/flags/moz_flag.png,4.85,http://www.nationalanthems.info/mz.mp3
+134,Myanmar,53708395,Lower Middle Income,21631.63,1325.95,61.53,30.68,0.87,MMR,MM,East Asia and Pacific,https://data.un.org/common/flags/mmr_flag.png,2.15,http://www.nationalanthems.info/mm.mp3
+135,Namibia,2448255,Upper Middle Income,3755.01,5931.45,26.47,51,19.88,NAM,NA,Sub-Saharan Africa,https://data.un.org/common/flags/nam_flag.png,3.4,http://www.nationalanthems.info/na.mp3
+136,Nauru,12704,Upper Middle Income,47.67,9888.89,0.08,57,13.28,NRU,NR,East Asia and Pacific,https://data.un.org/common/flags/nru_flag.png,3.9,http://www.nationalanthems.info/nr.mp3
+137,Nepal,28087871,Low Income,8030.73,1033.91,85.26,34,11.36,NPL,NP,South Asia,https://data.un.org/common/flags/npl_flag.png,1.92,http://www.nationalanthems.info/np.mp3
+138,Netherlands,17231624,High Income,167303.21,53024.06,5.89,94.71,3.83,NLD,NL,Europe and Central Asia,https://data.un.org/common/flags/nld_flag.png,1.62,http://www.nationalanthems.info/nl.mp3
+139,New Caledonia,284060,High Income,4290.39,35815.4,4.76,82.01,14.59,NCL,NC,East Asia and Pacific,https://data.un.org/common/flags/ncl_flag.png,1.97,http://www.nationalanthems.info/nc.mp3
+140,New Zealand,4841000,High Income,34664.15,41945.33,30.79,90.81,4.3,NZL,NZ,East Asia and Pacific,https://data.un.org/common/flags/nzl_flag.png,1.71,http://www.nationalanthems.info/nz.mp3
+141,Nicaragua,6465513,Lower Middle Income,4862.44,2028.89,48.2,27.86,4.52,NIC,NI,Latin America and Caribbean,https://data.un.org/common/flags/nic_flag.png,2.4,http://www.nationalanthems.info/ni.mp3
+142,Niger,22442948,Low Income,2126.86,413.98,78.94,5.25,7.77,NER,NE,Sub-Saharan Africa,https://data.un.org/common/flags/ner_flag.png,6.91,http://www.nationalanthems.info/ne.mp3
+143,Nigeria,195874740,Lower Middle Income,96280.75,2028.18,86.64,42,8.39,NGA,NG,Sub-Saharan Africa,https://data.un.org/common/flags/nga_flag.png,5.39,http://www.nationalanthems.info/ng.mp3
+144,North Macedonia,2082958,Upper Middle Income,7510.02,6083.72,24.22,79.17,20.74,MKD,MK,Europe and Central Asia,https://data.un.org/common/flags/mkd_flag.png,1.5,http://www.nationalanthems.info/mk.mp3
+145,Northern Mariana Islands,56882,High Income,-1,23258.68,0,-1,11.17,MNP,MP,East Asia and Pacific,https://data.un.org/common/flags/mnp_flag.png,1.6,http://www.nationalanthems.info/mp.mp3
+146,Norway,5311916,High Income,47627,81697.25,57.77,96.49,3.8,NOR,NO,Europe and Central Asia,https://data.un.org/common/flags/nor_flag.png,1.62,http://www.nationalanthems.info/no.mp3
+147,Oman,4829483,High Income,61169.23,16415.16,0,80.19,1.8,OMN,OM,Middle East and North Africa,https://data.un.org/common/flags/omn_flag.png,2.89,http://www.nationalanthems.info/om.mp3
+148,Pakistan,212215030,Lower Middle Income,166298.45,1482.4,46.48,15.51,4.08,PAK,PK,South Asia,https://data.un.org/common/flags/pak_flag.png,3.51,http://www.nationalanthems.info/pk.mp3
+149,Palau,17907,High Income,260.36,15859.43,0,-1,1.36,PLW,PW,East Asia and Pacific,https://data.un.org/common/flags/plw_flag.png,2.21,http://www.nationalanthems.info/pw.mp3
+150,Panama,4176873,High Income,8800.8,15575.07,21.23,57.87,3.89,PAN,PA,Latin America and Caribbean,https://data.un.org/common/flags/pan_flag.png,2.46,http://www.nationalanthems.info/pa.mp3
+151,Papua New Guinea,8606316,Lower Middle Income,6318.24,2730.27,52.5,11.21,2.62,PNG,PG,East Asia and Pacific,https://data.un.org/common/flags/png_flag.png,3.56,http://www.nationalanthems.info/pg.mp3
+152,Paraguay,6956071,Upper Middle Income,5702.19,5821.81,61.68,64.99,6.22,PRY,PY,Latin America and Caribbean,https://data.un.org/common/flags/pry_flag.png,2.43,http://www.nationalanthems.info/py.mp3
+153,Peru,31989256,Upper Middle Income,61744.95,6941.24,25.5,52.54,6.43,PER,PE,Latin America and Caribbean,https://data.un.org/common/flags/per_flag.png,2.25,http://www.nationalanthems.info/pe.mp3
+154,Philippines,106651922,Lower Middle Income,105653.6,3102.71,27.45,60.05,2.34,PHL,PH,East Asia and Pacific,https://data.un.org/common/flags/phl_flag.png,2.58,http://www.nationalanthems.info/ph.mp3
+155,Poland,37974750,High Income,285739.97,15420.91,11.91,77.54,3.85,POL,PL,Europe and Central Asia,https://data.un.org/common/flags/pol_flag.png,1.48,http://www.nationalanthems.info/pl.mp3
+156,Portugal,10283822,High Income,45052.76,23407.91,27.16,74.66,6.99,PRT,PT,Europe and Central Asia,https://data.un.org/common/flags/prt_flag.png,1.38,http://www.nationalanthems.info/pt.mp3
+157,Puerto Rico,3195153,High Income,19850,31651.35,1.84,70.6,8.27,PRI,PR,Latin America and Caribbean,https://data.un.org/common/flags/pri_flag.png,1.04,http://www.nationalanthems.info/pr.mp3
+158,Qatar,2781677,High Income,107853.8,68793.78,0,99.65,0.11,QAT,QA,Middle East and North Africa,https://data.un.org/common/flags/qat_flag.png,1.87,http://www.nationalanthems.info/qa.mp3
+159,Romania,19466145,Upper Middle Income,70003.03,12301.19,23.7,70.68,4.19,ROU,RO,Europe and Central Asia,https://data.un.org/common/flags/rou_flag.png,1.71,http://www.nationalanthems.info/ro.mp3
+160,Russian Federation,144478050,Upper Middle Income,1705345.68,11288.88,3.3,80.86,4.85,RUS,RU,Europe and Central Asia,https://data.un.org/common/flags/rus_flag.png,1.57,http://www.nationalanthems.info/ru.mp3
+161,Rwanda,12301939,Low Income,839.74,772.94,86.66,21.77,15.11,RWA,RW,Sub-Saharan Africa,https://data.un.org/common/flags/rwa_flag.png,4.04,http://www.nationalanthems.info/rw.mp3
+162,Samoa,196130,Upper Middle Income,198.02,4183.41,34.32,33.61,14.47,WSM,WS,East Asia and Pacific,https://data.un.org/common/flags/wsm_flag.png,3.88,http://www.nationalanthems.info/ws.mp3
+163,San Marino,33785,High Income,-1,50587.6,0,60.18,6.45,SMR,SM,Europe and Central Asia,https://data.un.org/common/flags/smr_flag.png,1.26,http://www.nationalanthems.info/sm.mp3
+164,Sao Tome and Principe,211028,Lower Middle Income,113.68,2001.14,41.06,29.93,13.59,STP,ST,Sub-Saharan Africa,https://data.un.org/common/flags/stp_flag.png,4.32,http://www.nationalanthems.info/st.mp3
+165,Saudi Arabia,33699947,High Income,601046.97,23338.96,0.01,93.31,6.04,SAU,SA,Middle East and North Africa,https://data.un.org/common/flags/sau_flag.png,2.32,http://www.nationalanthems.info/sa.mp3
+166,Senegal,15854360,Lower Middle Income,8855.81,1521.95,42.71,46,6.76,SEN,SN,Sub-Saharan Africa,https://data.un.org/common/flags/sen_flag.png,4.63,http://www.nationalanthems.info/sn.mp3
+167,Serbia,6982604,Upper Middle Income,37667.42,7246.73,21.17,73.36,12.73,SRB,RS,Europe and Central Asia,https://data.un.org/common/flags/srb_flag.png,1.49,http://www.nationalanthems.info/rs.mp3
+168,Seychelles,96762,High Income,495.05,16433.94,1.35,58.77,3.53,SYC,SC,Sub-Saharan Africa,https://data.un.org/common/flags/syc_flag.png,2.4,http://www.nationalanthems.info/sc.mp3
+169,Sierra Leone,7650154,Low Income,1309.12,533.99,77.66,9,4.68,SLE,SL,Sub-Saharan Africa,https://data.un.org/common/flags/sle_flag.png,4.26,http://www.nationalanthems.info/sl.mp3
+170,Singapore,5638676,High Income,56372.79,64581.94,0.71,88.17,4.2,SGP,SG,East Asia and Pacific,https://data.un.org/common/flags/sgp_flag.png,1.14,http://www.nationalanthems.info/sg.mp3
+171,Sint Maarten (Dutch part),40654,High Income,733.4,27115.5,0.05,-1,9.9,SXM,SX,Latin America and Caribbean,https://data.un.org/common/flags/sxm_flag.png,2.03,http://www.nationalanthems.info/sx.mp3
+172,Slovak Republic,5446771,High Income,30678.12,19442.71,13.41,80.66,6.54,SVK,SK,Europe and Central Asia,https://data.un.org/common/flags/svk_flag.png,1.52,http://www.nationalanthems.info/sk.mp3
+173,Slovenia,2073894,High Income,12812.5,26123.97,20.88,79.75,5.11,SVN,SI,Europe and Central Asia,https://data.un.org/common/flags/svn_flag.png,1.62,http://www.nationalanthems.info/si.mp3
+174,Solomon Islands,652858,Lower Middle Income,201.69,2137.69,63.31,11.92,0.69,SLB,SB,East Asia and Pacific,https://data.un.org/common/flags/slb_flag.png,4.4,http://www.nationalanthems.info/sb.mp3
+175,Somalia,15008154,Low Income,608.72,314.54,94.29,2,5.9,SOM,SO,Sub-Saharan Africa,https://data.un.org/common/flags/som_flag.png,6.07,http://www.nationalanthems.info/so.mp3
+176,South Africa,57779622,Upper Middle Income,489771.85,6374.03,17.15,56.17,28.47,ZAF,ZA,Sub-Saharan Africa,https://data.un.org/common/flags/zaf_flag.png,2.41,http://www.nationalanthems.info/za.mp3
+177,South Sudan,10975920,Low Income,1496.14,1119.65,39.07,7.98,12.15,SSD,SS,Sub-Saharan Africa,https://data.un.org/common/flags/ssd_flag.png,4.7,http://www.nationalanthems.info/ss.mp3
+178,Spain,46796540,High Income,233976.6,30370.89,16.25,86.11,15.25,ESP,ES,Europe and Central Asia,https://data.un.org/common/flags/esp_flag.png,1.31,http://www.nationalanthems.info/es.mp3
+179,Sri Lanka,21670000,Upper Middle Income,18393.67,4102.48,52.88,34.11,4.05,LKA,LK,South Asia,https://data.un.org/common/flags/lka_flag.png,2.2,http://www.nationalanthems.info/lk.mp3
+180,St. Kitts and Nevis,52441,High Income,231.02,19275.42,1.64,80.71,5.12,KNA,KN,Latin America and Caribbean,https://data.un.org/common/flags/kna_flag.png,2.11,http://www.nationalanthems.info/kn.mp3
+181,St. Lucia,181889,Upper Middle Income,407.04,10566.05,2.13,50.82,21.26,LCA,LC,Latin America and Caribbean,https://data.un.org/common/flags/lca_flag.png,1.44,http://www.nationalanthems.info/lc.mp3
+182,St. Martin (French part),37264,High Income,-1,-1,-1,-1,12,MAF,MF,Latin America and Caribbean,https://data.un.org/common/flags/maf_flag.png,1.81,http://www.nationalanthems.info/mf.mp3
+183,St. Vincent and the Grenadines,110210,Upper Middle Income,209.02,7361.4,5.81,22.39,18.79,VCT,VC,Latin America and Caribbean,https://data.un.org/common/flags/vct_flag.png,1.89,http://www.nationalanthems.info/vc.mp3
+184,Sudan,41801533,Lower Middle Income,15364.73,977.27,61.6,30.87,17.44,SDN,SD,Sub-Saharan Africa,https://data.un.org/common/flags/sdn_flag.png,4.41,http://www.nationalanthems.info/sd.mp3
+185,Suriname,575991,Upper Middle Income,1991.18,6234.04,24.91,48.95,7.22,SUR,SR,Latin America and Caribbean,https://data.un.org/common/flags/sur_flag.png,2.42,http://www.nationalanthems.info/sr.mp3
+186,Sweden,10175214,High Income,43420.95,54608.36,53.25,92.14,6.35,SWE,SE,Europe and Central Asia,https://data.un.org/common/flags/swe_flag.png,1.78,http://www.nationalanthems.info/se.mp3
+187,Switzerland,8513227,High Income,35305.88,82796.55,25.29,89.69,4.71,CHE,CH,Europe and Central Asia,https://data.un.org/common/flags/che_flag.png,1.52,http://www.nationalanthems.info/ch.mp3
+188,Syrian Arab Republic,16906283,Low Income,30703.79,2032.62,0.52,34.25,8.61,SYR,SY,Middle East and North Africa,https://data.un.org/common/flags/syr_flag.png,2.81,http://www.nationalanthems.info/sy.mp3
+189,Tajikistan,9100837,Low Income,5188.81,826.62,44.66,21.96,6.9,TJK,TJ,Europe and Central Asia,https://data.un.org/common/flags/tjk_flag.png,3.59,http://www.nationalanthems.info/tj.mp3
+190,Tanzania,56318348,Low Income,11562.05,1060.99,85.71,25,2.12,TZA,TZ,Sub-Saharan Africa,https://data.un.org/common/flags/tza_flag.png,4.89,http://www.nationalanthems.info/tz.mp3
+191,Thailand,69428524,Upper Middle Income,316212.74,7273.56,22.86,56.82,0.77,THA,TH,East Asia and Pacific,https://data.un.org/common/flags/tha_flag.png,1.53,http://www.nationalanthems.info/th.mp3
+192,Timor-Leste,1267972,Lower Middle Income,469.38,2035.53,18.22,27.49,4.66,TLS,TL,East Asia and Pacific,https://data.un.org/common/flags/tls_flag.png,4.02,http://www.nationalanthems.info/tl.mp3
+193,Togo,7889094,Low Income,2621.91,679.26,71.26,12.36,3.74,TGO,TG,Sub-Saharan Africa,https://data.un.org/common/flags/tgo_flag.png,4.32,http://www.nationalanthems.info/tg.mp3
+194,Tonga,103197,Upper Middle Income,121.01,4364.02,1.88,41.25,3.07,TON,TO,East Asia and Pacific,https://data.un.org/common/flags/ton_flag.png,3.56,http://www.nationalanthems.info/to.mp3
+195,Trinidad and Tobago,1389858,High Income,46273.87,17129.91,0.28,77.33,3.21,TTO,TT,Latin America and Caribbean,https://data.un.org/common/flags/tto_flag.png,1.73,http://www.nationalanthems.info/tt.mp3
+196,Tunisia,11565204,Lower Middle Income,28829.95,3447.51,12.56,64.19,15.46,TUN,TN,Middle East and North Africa,https://data.un.org/common/flags/tun_flag.png,2.2,http://www.nationalanthems.info/tn.mp3
+197,Turkey,82319724,Upper Middle Income,345981.45,9370.18,13.37,71.04,10.89,TUR,TR,Europe and Central Asia,https://data.un.org/common/flags/tur_flag.png,2.07,http://www.nationalanthems.info/tr.mp3
+198,Turkmenistan,5850908,Upper Middle Income,68422.55,6966.64,0.04,21.25,4,TKM,TM,Europe and Central Asia,https://data.un.org/common/flags/tkm_flag.png,2.79,http://www.nationalanthems.info/tm.mp3
+199,Turks and Caicos Islands,37665,High Income,205.35,27142.23,0.57,-1,8.3,TCA,TC,Latin America and Caribbean,https://data.un.org/common/flags/tca_flag.png,1.7,http://www.nationalanthems.info/tc.mp3
+200,Tuvalu,11508,Upper Middle Income,11,3700.71,-1,49.32,8.49,TUV,TV,East Asia and Pacific,https://data.un.org/common/flags/tuv_flag.png,3.6,http://www.nationalanthems.info/tv.mp3
+201,Uganda,42723139,Low Income,5229.14,642.78,89.06,23.71,9.44,UGA,UG,Sub-Saharan Africa,https://data.un.org/common/flags/uga_flag.png,4.96,http://www.nationalanthems.info/ug.mp3
+202,Ukraine,44622516,Lower Middle Income,227299,3095.17,4.14,62.55,8.8,UKR,UA,Europe and Central Asia,https://data.un.org/common/flags/ukr_flag.png,1.3,http://www.nationalanthems.info/ua.mp3
+203,United Arab Emirates,9630959,High Income,211369.55,43004.95,0.14,98.45,2.23,ARE,AE,Middle East and North Africa,https://data.un.org/common/flags/are_flag.png,1.41,http://www.nationalanthems.info/ae.mp3
+204,United Kingdom,66460344,High Income,419820.16,42943.9,8.71,94.9,4,GBR,GB,Europe and Central Asia,https://data.un.org/common/flags/gbr_flag.png,1.74,http://www.nationalanthems.info/gb.mp3
+205,United States,326687501,High Income,5254279.29,62794.59,8.72,87.27,3.9,USA,US,North America,https://data.un.org/common/flags/usa_flag.png,1.73,http://www.nationalanthems.info/us.mp3
+206,Uruguay,3449299,High Income,6747.28,17277.97,58.02,74.77,8.34,URY,UY,Latin America and Caribbean,https://data.un.org/common/flags/ury_flag.png,1.97,http://www.nationalanthems.info/uy.mp3
+207,Uzbekistan,32955400,Lower Middle Income,105213.56,1532.37,2.97,55.2,9.3,UZB,UZ,Europe and Central Asia,https://data.un.org/common/flags/uzb_flag.png,2.42,http://www.nationalanthems.info/uz.mp3
+208,Vanuatu,292680,Lower Middle Income,154.01,3123.89,36.11,25.72,1.85,VUT,VU,East Asia and Pacific,https://data.un.org/common/flags/vut_flag.png,3.78,http://www.nationalanthems.info/vu.mp3
+209,"Venezuela, RB",28870195,Upper Middle Income,185220.17,16054.49,12.84,72,6.6,VEN,VE,Latin America and Caribbean,https://data.un.org/common/flags/ven_flag.png,2.27,http://www.nationalanthems.info/ve.mp3
+210,Vietnam,95540395,Lower Middle Income,166910.84,2566.6,35,70.35,2,VNM,VN,East Asia and Pacific,https://data.un.org/common/flags/vnm_flag.png,2.05,http://www.nationalanthems.info/vn.mp3
+211,Virgin Islands (U.S.),106977,High Income,2764,35931.54,3.88,64.38,7,VIR,VI,Latin America and Caribbean,https://data.un.org/common/flags/vir_flag.png,2.06,http://www.nationalanthems.info/vi.mp3
+212,West Bank and Gaza,4569087,Lower Middle Income,3113,3198.87,10.47,64.4,26.26,PSE,PS,Middle East and North Africa,https://data.un.org/common/flags/pse_flag.png,3.64,http://www.nationalanthems.info/ps.mp3
+213,"Yemen, Rep.",28498687,Low Income,22698.73,944.41,2.28,26.72,13.47,YEM,YE,Middle East and North Africa,https://data.un.org/common/flags/yem_flag.png,3.79,http://www.nationalanthems.info/ye.mp3
+214,Zambia,17351822,Lower Middle Income,4503.08,1539.9,87.99,14.3,11.63,ZMB,ZM,Sub-Saharan Africa,https://data.un.org/common/flags/zmb_flag.png,4.63,http://www.nationalanthems.info/zm.mp3
+215,Zimbabwe,14439018,Lower Middle Income,12020.43,2147,81.8,27.06,4.77,ZWE,ZW,Sub-Saharan Africa,https://data.un.org/common/flags/zwe_flag.png,3.62,http://www.nationalanthems.info/zw.mp3
