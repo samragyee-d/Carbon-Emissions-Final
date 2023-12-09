@@ -2,7 +2,7 @@
 import pandas as pd
 
 #Establishing a file route
-df_carbondata = pd.read_csv(r"C:\Users\Hem Dhakal BCCC\Downloads\Countries and Territories (1).csv")
+df_carbondata = pd.read_csv("Countries and Territories.csv")
 
 #Establising variable that will store the emissions data for each income level. 
 #Inside the df_carbondata.loc call carbon data, and everything in the brackets get the data based on the income level. 
